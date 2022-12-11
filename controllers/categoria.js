@@ -1,3 +1,5 @@
+// Actualizacion categoria para subir second commit
+
 var validator = require("validator");
 var Categoria = require("../models/Categorias");
 
